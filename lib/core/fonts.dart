@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of style;
 
 class _ThemeFont {
   ///Poppins - Bold

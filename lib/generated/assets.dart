@@ -2,38 +2,59 @@
 class Assets {
   Assets._();
 
-  static const String iconActiveFill = 'assets/icon/active_fill.svg';
-  static const String iconArrowDownOutline = 'assets/icon/arrow-down_outline.svg';
-  static const String iconArrowRightFill = 'assets/icon/arrow-right_fill.svg';
-  static const String iconArrowRightOutline = 'assets/icon/arrow-right_outline.svg';
-  static const String iconArrowSquareDownFill = 'assets/icon/arrow-square-down_fill.svg';
-  static const String iconArrowSquareUpFill = 'assets/icon/arrow-square-up_fill.svg';
-  static const String iconArrowUpOutline = 'assets/icon/arrow-up_outline.svg';
-  static const String iconDocumentFavoriteFill = 'assets/icon/document-favorite_fill.svg';
-  static const String iconDocumentFavoriteOutline = 'assets/icon/document-favorite_outline.svg';
-  static const String iconDocumentTextFill = 'assets/icon/document-text_fill.svg';
-  static const String iconDocumentTextOutline = 'assets/icon/document-text_outline.svg';
-  static const String iconFrameFill = 'assets/icon/frame_fill.svg';
-  static const String iconHomeFill = 'assets/icon/home-2_fill.svg';
-  static const String iconInactiveOutline = 'assets/icon/inactive_outline.svg';
-  static const String iconLocationFill = 'assets/icon/location_fill.svg';
-  static const String iconLocationOutline = 'assets/icon/location_outline.svg';
-  static const String iconMessageFill = 'assets/icon/message_fill.svg';
-  static const String iconMessageOutline = 'assets/icon/message_outline.svg';
-  static const String iconMoreFill = 'assets/icon/more_fill.svg';
-  static const String iconMoreOutline = 'assets/icon/more_outline.svg';
-  static const String iconNotificationBingFill = 'assets/icon/notification-bing_fill.svg';
-  static const String iconNotificationBingOutline = 'assets/icon/notification-bing_outline.svg';
-  static const String iconProfileOutline = 'assets/icon/profile_outline.svg';
-  static const String iconSearchnormalFill = 'assets/icon/search-normal_fill.svg';
-  static const String iconSearchNormalOutline = 'assets/icon/search-normal_outline.svg';
-  static const String iconSettingFill = 'assets/icon/setting-2_fill.svg';
-  static const String iconSettingOutline = 'assets/icon/setting-2_outline.svg';
-  static const String iconShareFill = 'assets/icon/share_fill.svg';
-  static const String iconShareOutline = 'assets/icon/share_outline.svg';
-  static const String iconStar1Outline = 'assets/icon/star1_outline.svg';
-  static const String iconStar2Fill = 'assets/icon/star2_fill.svg';
-  static const String iconTimerFill = 'assets/icon/timer_fill.svg';
-  static const String iconTimerOutline = 'assets/icon/timer_outline.svg';
-
+  static const String iconsActiveFill = 'assets/icons/active_fill.svg';
+  static const String iconsArrowDownOutline =
+      'assets/icons/arrow_down_outline.svg';
+  static const String iconsArrowRightFill = 'assets/icons/arrow_right_fill.svg';
+  static const String iconsArrowRightOutline =
+      'assets/icons/arrow_right_outline.svg';
+  static const String iconsArrowSquareDownFill =
+      'assets/icons/arrow_square_down_fill.svg';
+  static const String iconsArrowSquareUpFill =
+      'assets/icons/arrow_square_up_fill.svg';
+  static const String iconsArrowUpOutline = 'assets/icons/arrow_up_outline.svg';
+  static const String iconsDocumentFavoriteFill =
+      'assets/icons/document_favorite_fill.svg';
+  static const String iconsDocumentFavoriteOutline =
+      'assets/icons/document_favorite_outline.svg';
+  static const String iconsDocumentTextFill =
+      'assets/icons/document_text_fill.svg';
+  static const String iconsDocumentTextOutline =
+      'assets/icons/document_text_outline.svg';
+  static const String iconsFrameFill = 'assets/icons/frame_fill.svg';
+  static const String iconsHome2Fill = 'assets/icons/home_2_fill.svg';
+  static const String iconsInactiveOutline =
+      'assets/icons/inactive_outline.svg';
+  static const String iconsLocationFill = 'assets/icons/location_fill.svg';
+  static const String iconsLocationOutline =
+      'assets/icons/location_outline.svg';
+  static const String iconsMessageFill = 'assets/icons/message_fill.svg';
+  static const String iconsMessageOutline = 'assets/icons/message_outline.svg';
+  static const String iconsMoreFill = 'assets/icons/more_fill.svg';
+  static const String iconsMoreOutline = 'assets/icons/more_outline.svg';
+  static const String iconsNotificationBingFill =
+      'assets/icons/notification_bing_fill.svg';
+  static const String iconsNotificationBingOutline =
+      'assets/icons/notification_bing_outline.svg';
+  static const String iconsProfileOutline = 'assets/icons/profile_outline.svg';
+  static const String iconsSearchNormalFill =
+      'assets/icons/search_normal_fill.svg';
+  static const String iconsSearchNormalOutline =
+      'assets/icons/search_normal_outline.svg';
+  static const String iconsSetting2Fill = 'assets/icons/setting_2_fill.svg';
+  static const String iconsSetting2Outline =
+      'assets/icons/setting_2_outline.svg';
+  static const String iconsSetting4Fill = 'assets/icons/setting_4_fill.svg';
+  static const String iconsSetting4Outline =
+      'assets/icons/setting_4_outline.svg';
+  static const String iconsShareFill = 'assets/icons/share_fill.svg';
+  static const String iconsShareOutline = 'assets/icons/share_outline.svg';
+  static const String iconsStar1Outline = 'assets/icons/star1_outline.svg';
+  static const String iconsStar2Fill = 'assets/icons/star2_fill.svg';
+  static const String iconsTimerFill = 'assets/icons/timer_fill.svg';
+  static const String iconsTimerOutline = 'assets/icons/timer_outline.svg';
+  static const String imagesBackground = 'assets/images/images_background.webp';
+  static const String imagesChefHat = 'assets/images/chef_hat.webp';
+  static const String iconsFacebook = 'assets/icons/facebook.svg';
+  static const String iconsGoogle = 'assets/icons/google.svg';
 }
